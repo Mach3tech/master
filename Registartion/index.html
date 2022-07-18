@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="Chrome">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registartion Form</title>
+</head>
+<body>
+    <Div>
+    <H2>Registration Form</H2>
+    <form action="/action" method="post"></form>
+    <div>
+
+First Name:* <input type="text"><br>
+Last  Name:* <input type="text"><br>
+Email Address:*<input type="email"><br>
+Password:*    <input type="password"><br>
+Confirm Password:*  <input type="text"><br>
+Birthdate    <input type="date"><br>
+<div>
+    <label>Gender Identity</label><br>
+    <name="male or female"  value="gender" id="gender_id">
+    <input type="radio" name="male" value="male" id="gender_id">
+    <label for="gender_id">Male</label>
+</div>
+<div>
+    <input type="radio" name="Female" value="Female" id="gender_id">
+    <label for="gender_id">Female</label>
+</div>
+<div>
+    <input type="radio" name="Non-binary" value="Non-binary" id="gender_id">
+    <label for="gender_id"><Non-Binary>Non-Binary</Non-Binary></label>
+</div>
+<div>
+    <input type="radio" name="NA" value="NA" id="gender_id">
+    <label for="gender_id">Perfer not to Answer</label><br>
+</div>
+<div>
+    <label>A short description about myself</label><br>
+    <textarea name="comments" id="comments_area" cols="20" rows="6"></textarea>
+</div>
+<div>
+    Favorite Language <select name="Favorite Language"><br>
+        <option>Java</option>
+        <option>C#</option>
+        <option>Python</option>
+        <option>Ruby on Rails</option>
+    </select>
+    </div>
+    <div>
+        <input type="checkbox" name="email_updates" id="email_updates">
+            <label for="email_updates">Yes I would like to recive periodic email updates</label>
+        <div>
+            <br>
+            <br>
+            <!--<input type="submit" value="Send Form" />-->
+            <button type="submit">Create Account</button>
+        </div>
+        <br>
+* Required Fields
+</body>
+</html>
