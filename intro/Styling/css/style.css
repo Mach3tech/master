@@ -1,0 +1,35 @@
+.container{
+    width: 950px;
+    margin: 0px auto;
+    padding: 5px;
+    text-decoration: underline;
+        
+}
+.main {
+    height: 70px;
+    margin: 10px;
+    background-color: black;
+    color: aqua;
+
+}
+
+
+#advertisement {
+    text-align: center;
+    height: 50px;
+    background-color: purple;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+#bottom {
+    text-decoration: underline;
+    text-align: right;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: cyan
+    }
+ 
