@@ -2,6 +2,7 @@
     width: 950px;
     margin: 0px auto;
     text-decoration: underline;
+    
 
 }
 .main {
@@ -29,11 +30,12 @@
 
 
 #bottom {
+    position: relative;
+    top: 4px;
     text-decoration: underline;
     text-align: bottom;
     text-align: right;
     height: 50px;
-    margin-top: 5px;
     margin-left: 10px;
     margin-right: 10px;
     background-color: cyan;
