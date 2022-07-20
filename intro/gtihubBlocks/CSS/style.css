@@ -1,6 +1,26 @@
+div {
+    background-color: rgba(226, 226, 236, 0.904);
+    width: 465px;
+    height: 625px;
+    margin: 15px;
+    justify-content: center;
+    padding: 15px;
+    text-align: center;
+
+
+
+}
 #container{
+    background-color: white;
+    display: flex;
+    align-items: center; 
+    justify-content: space-evenly;
+    flex-direction: row;
+    position: absolute;
+    margin: 15px;
     
-}    
+
+}   
     
 
 .row {
@@ -42,7 +62,7 @@
 }
 
 img {
-    height: 125px;
-    width: 125px;
+    height: 110px;
+    width: 110px;
     margin-inline-start: 5px;
 }
