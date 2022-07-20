@@ -24,20 +24,8 @@
     display: flex;
 
 }
-
-#img.row1 {
+#img {
     height: 150px;
     width: 150px;
     display: flex;
 }
-
-#img.row2 {
-    height: 150px;
-    width: 150px;
-    display: flex;
-}
-#img.row3 {
-    height: 150px;
-    width: 150px;
-    display: flex;
-    }
