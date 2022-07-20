@@ -1,0 +1,88 @@
+#gitblocks{
+    
+}
+
+
+.blue {
+    height: 120px;
+    width: 120px;
+    margin: 10px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    
+}
+.pink {
+    display: inline-block;
+    height: 130px;
+    width: 120px;
+    background-color: pink;
+    margin: 10px;
+    display: flex;
+    display: inline-block;
+}
+.white {
+    display: inline-block;
+    height: 130px;
+    width: 120px;
+    background-color: silver;
+    margin: 10px;
+    display: flex;
+    display: inline-block;
+}
+
+#daftcat {
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
+
+#pri {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
+
+#mav {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
+
+#justice {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
+
+#mc {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
+
+#yogi {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
+
+#dino {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
+
+#fintech {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
