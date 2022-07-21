@@ -1,0 +1,29 @@
+#row{
+
+
+}
+#row2{
+    
+
+}
+#row3{
+    
+
+}
+.col{
+    flex-shrink: 1;
+    flex-grow: 2;
+    flex-basis: 50px;
+
+}
+.col-2{
+    flex-shrink: 1;
+    flex-grow: 2;
+    flex-basis: 50px;
+}
+.col-3{
+    flex-shrink: 1;
+    flex-grow: 2;
+    flex-basis: 50px;
+
+}
