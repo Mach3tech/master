@@ -1,8 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
 .nav {
-    width: 300px;
-    border: 15px dotted red;
-    padding: 50px;
-    margin: 200px;
+    width: 750px;
+    padding: 10px 20px;
+    margin: 0px auto;
     display: flex;
-    align-items:center
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333333;
+    font-family: 'Edu QLD Beginner', cursive;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.links li {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+}
+
+.button {
+    padding: 5px 10px;
+    background-color: #17a2b8;
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
 }

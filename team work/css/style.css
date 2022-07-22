@@ -1,0 +1,21 @@
+div {
+
+}
+#container{
+    
+    
+
+}   
+
+.blue {
+    width: 800px;
+    height: 260px;
+    margin: auto, 20px;
+    background-color: blue; 
+}
+.yellow {
+    width: 800px;
+    height: 260px;
+    margin: auto, 20px;
+    background-color: yellow; 
+}
